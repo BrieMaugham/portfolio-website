@@ -118,9 +118,5 @@ Award Ceremony: August 8th, 2025, 5:00 PM EAT
 
 💡 Available for walkthrough demos or video presentation
 
-🔗 Live Site (if deployed)
-https://BrieMaugham.github.io/portfolio-website/ (if published)
-Or can be shared as a zip / video walkthrough.
-
 🙌 Acknowledgments
 Huge thanks to PLP Academy, the Hackathon Team, and my support network for pushing me to showcase my full potential. Special shoutout to everyone who reviewed, critiqued, and cheered me on during this challenge!
